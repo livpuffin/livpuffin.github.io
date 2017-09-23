@@ -1,7 +1,7 @@
 ## Projects
 
 - Bird movie
-- Tea
+- Writing
 
 ## Links
 - [Resume](google.com)
