@@ -1,5 +1,24 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/*@import "{{ site.theme }}";
 
+@font-face {
+    font-family: "Fell English";
+    src: url("/fonts/IMFeENrm29P.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Fell English";
+    src: url("/fonts/IMFeENit29P.ttf");
+    font-style: italic, oblique;
+}
+
+* {
+    font-family: "Fell English";
+}
+*/
+
+* {
+  color: green;
+}
