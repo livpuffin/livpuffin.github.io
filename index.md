@@ -1,7 +1,16 @@
-## Projects
+---
+layout: default
+---
 
-- Bird movie
-- Writing
+## Projects:
+
+* [Chasing Birbs](http://google.com)
+* Something else...
 
 ## Links
-- [Resume](google.com)
+
+* [My CV](http://google.com)
+* [LinkedIn](https://uk.linkedin.com/in/livgrant)
+
+### Get in touch
+Feel free to use smoke signals!
